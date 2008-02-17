@@ -1,0 +1,5 @@
+pxCamera: Video Capture Library
+Copyright © 2007-2008 John Robinson
+
+02/16/2008 Initial release
+
